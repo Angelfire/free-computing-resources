@@ -334,3 +334,7 @@
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com/)
 * [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
 * [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/) ([mirror](http://www.scribd.com/doc/2236084/Whys-Poignant-Guide-to-Ruby))
+* 
+
+## Credits
+Taking for [Free programming books](https://github.com/vhf/free-programming-books)
