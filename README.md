@@ -2,4 +2,4 @@
 
 
 Free computing resources
-  * [Free Programming eBooks](#free-computing-resources/blob/master/README.md)
+  * [Free Programming eBooks](free-programming-ebooks.md)
