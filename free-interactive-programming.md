@@ -31,4 +31,4 @@
 ### Ruby
 * [Ruby](http://www.codecademy.com/tracks/ruby) - Codecademy
 * [Try Ruby](https://www.codeschool.com/courses/try-ruby) - Code School
-* [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
+* [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux) - Code School
