@@ -15,7 +15,7 @@
     * [Kivy](#kivy)
     * [Pandas](#pandas)
     * [Pyramid](#pyramid)
-  * [Ruby](#ruby)
+* [Ruby](#ruby)
     * [RSpec](#rspec)
     * [Sinatra](#sinatra)
     * [Ruby on Rails](#ruby-on-rails)
