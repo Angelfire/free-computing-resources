@@ -16,15 +16,19 @@
 
 ### Javascript
 * [Javascript](http://www.codecademy.com/tracks/javascript) - Codecademy
+* [JavaScript Road Trip Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1)
 
 #### Angular
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) - Code School
 
 ### jQuery
 * [jQuery](http://www.codecademy.com/tracks/jquery) - Codecademy
+* [Try jQuery](https://www.codeschool.com/courses/try-jquery)
 
 ### Python
 * [Python](http://www.codecademy.com/tracks/python) - Codecademy
 
 ### Ruby
 * [Ruby](http://www.codecademy.com/tracks/ruby) - Codecademy
+* [Try Ruby](https://www.codeschool.com/courses/try-ruby) - Code School
+* [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
