@@ -22,6 +22,7 @@
 
 #### Angular
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) - Code School
+* [A Better Way to Learn AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs/) - Thinkster
 
 #### jQuery
 * [jQuery](http://www.codecademy.com/tracks/jquery) - Codecademy
