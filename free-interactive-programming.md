@@ -3,8 +3,8 @@
 ## Index
 * [HTML / CSS](#htmlcss)
 * [Javascript](#javascript)
-  *[AngularJS](#Angularjs)
-  *[jQuery](#jquery)
+ * [AngularJS](#Angularjs)
+ * [jQuery](#jquery)
 * [Python](#python)
 * [Ruby](#ruby)
 
