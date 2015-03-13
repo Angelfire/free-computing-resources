@@ -28,7 +28,7 @@
 * [Try jQuery](https://www.codeschool.com/courses/try-jquery) - Code School
 
 #### Node.js
-*[Nodeschool](http://nodeschool.io/)
+* [Nodeschool](http://nodeschool.io/)
 
 
 ### Python
