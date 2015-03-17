@@ -13,5 +13,4 @@
 * [Human JavaScript](http://read.humanjavascript.com/)
 * [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
 * [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
