@@ -94,6 +94,7 @@
 
 #### Javascript Frameworks
 #### Angular.js
+* [AngularJS-Resources] Here you can find a very structured gathering of Angular resources [AngularJS-Resources](JonathanZWhite/AngularJS-Resources)
 * [Angular for the jQuery developer](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
 * [Angular.js Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 * [Angular.js Guide](http://docs.angularjs.org/guide/)
