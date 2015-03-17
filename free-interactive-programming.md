@@ -19,6 +19,10 @@
 ### Javascript
 * [Javascript](http://www.codecademy.com/tracks/javascript) - Codecademy
 * [JavaScript Road Trip Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1) - Code School
+* [Learn JS](http://www.learn-js.org/)
+* [Javascript Foundations](http://teamtreehouse.com/library/javascript-foundations) - Tree House
+* [Fight Code Game](http://fightcodegame.com/) 
+* [CodeWars](http://www.codewars.com/)
 
 #### Angular
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) - Code School
