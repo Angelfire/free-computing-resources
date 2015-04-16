@@ -17,6 +17,7 @@
 
 
 ### Javascript
+* [Understanding JavaScript Prototypes - Workshop](https://github.com/sporto/planetproto)
 * [Javascript](http://www.codecademy.com/tracks/javascript) - Codecademy
 * [JavaScript Road Trip Part 1](https://www.codeschool.com/courses/javascript-road-trip-part-1) - Code School
 * [Learn JS](http://www.learn-js.org/)
